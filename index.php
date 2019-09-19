@@ -3,9 +3,7 @@
 
 
 <html>
-	<script>
-		alert('Hello');
-	</script>
+	<?php echo "<script>alert("Hello World!");</script>"; ?>
 <body>
 
 <p> Hello World </p>
