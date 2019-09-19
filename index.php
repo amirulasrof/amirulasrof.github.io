@@ -7,7 +7,7 @@
 <body>
 
 <p> Hello World </p>
-	<?php echo "<script>alert("Hello World!");</script>"; ?>
+	<?php echo "Hello World!"; ?>
 
 </body>
 
